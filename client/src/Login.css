@@ -1,0 +1,20 @@
+.baharka{
+    background-image: linear-gradient(#ddc1fd,#ffffff);
+    display: flex;
+    flex-direction: column;
+}
+
+.login-form{
+    border: 1px solid rgb(152, 152, 152);
+    background-image: linear-gradient(#f0deff,#f0deff);
+
+    -webkit-box-shadow: 10px 10px 52px -17px rgba(0,0,0,0.78);
+-moz-box-shadow: 10px 10px 52px -17px rgba(0,0,0,0.78);
+box-shadow: 10px 10px 52px -17px rgba(0, 0, 0, 0.78);
+    
+}
+
+.htwo{
+    margin-top: 80px;
+    font-size: 20px;
+}

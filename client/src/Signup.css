@@ -1,0 +1,17 @@
+.baharka{
+    background-image: linear-gradient(#ddc1fd,#ffffff);
+}
+
+.hone{
+    margin-bottom: 50px;
+}
+
+.sign-form{
+    border: 1px solid rgb(152, 152, 152);
+    background-image: linear-gradient(#f0deff,#f0deff);
+
+    -webkit-box-shadow: 10px 10px 52px -17px rgba(0,0,0,0.78);
+-moz-box-shadow: 10px 10px 52px -17px rgba(0,0,0,0.78);
+box-shadow: 10px 10px 52px -17px rgba(0, 0, 0, 0.78);
+    
+}
